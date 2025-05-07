@@ -10,8 +10,8 @@ This project uses logistic regression to predict hotel booking cancellations bas
 
 ## 🛠️ Tools & Technologies
 - **Languages**: Python
-- **Libraries**: pandas, scikit-learn, seaborn
-- **Environments**: Jupyter Notebook
+- **Libraries**: pandas, scikit-learn
+- **Environments**: PyCharm
 
 ## 🚀 Results
 Key predictors of cancellations were identified, such as lead time, number of previous cancellations, and customer type. This analysis provides actionable insights for hotel managers to:
